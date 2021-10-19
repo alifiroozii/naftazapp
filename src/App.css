@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  height: 50px;
+  align-self: center;
+  background: rgb(43,35,176);
+background: radial-gradient(circle, rgba(43,35,176,1) 0%, rgba(103,103,219,0.9608718487394958) 65%, rgba(0,212,255,1) 100%);
+}
+.textHeader{
+  font-size:10px;
+}
+.dashboard{
+  background-color:e9ecef;
+}
