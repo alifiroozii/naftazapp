@@ -1,5 +1,9 @@
+body{
+  background-color: #535e85;
+}
 .App {
   text-align: center;
+  background-color: #535e85;
 }
 
 .App-logo {
@@ -38,6 +42,7 @@
 }
 
 .header{
+  border-radius: 10px;
   height: 50px;
   align-self: center;
   background: rgb(43,35,176);
@@ -48,4 +53,28 @@ background: radial-gradient(circle, rgba(43,35,176,1) 0%, rgba(103,103,219,0.960
 }
 .dashboard{
   background-color:e9ecef;
+}
+
+
+.ico{
+  font-size: -webkit-xxx-large;
+}
+.l-bg-cherry {
+  background: linear-gradient(to right, #493240, #f09) !important;
+  color: #fff;
+}
+
+.l-bg-blue-dark {
+  background: linear-gradient(to right, #373b44, #4286f4) !important;
+  color: #fff;
+}
+
+.l-bg-green-dark {
+  background: linear-gradient(to right, #0a504a, #38ef7d) !important;
+  color: #fff;
+}
+
+.l-bg-orange-dark {
+  background: linear-gradient(to right, #a86008, #ffba56) !important;
+  color: #fff;
 }

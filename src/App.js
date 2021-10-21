@@ -5,7 +5,7 @@ import Dashbord from './views/Dashbord';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App ">
       <Header/>
       <Dashbord/>
     </div>
