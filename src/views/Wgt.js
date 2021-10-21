@@ -4,7 +4,7 @@ const Wgt = () => {
   return (
     <div>
       <div class="row m-auto   ">
-        <div class="col mb-2 bg-primary l-bg-cherry rounded">
+        <div class="col pt-2 mb-2 bg-primary l-bg-cherry rounded">
           <h6 class="text-dark">New Order</h6>
           <div class="row " style={{ color: "white" }}>
             <div class="col">
@@ -18,7 +18,7 @@ const Wgt = () => {
       </div>
 
       <div class="row m-auto   ">
-        <div class="col mb-2 l-bg-blue-dark  bg-primary rounded">
+        <div class="col pt-2 mb-2 l-bg-blue-dark  bg-primary rounded">
           <h6 class="text-dark">Customer</h6>
           <div class="row " style={{ color: "white" }}>
             <div class="col">
@@ -31,7 +31,7 @@ const Wgt = () => {
         </div>
       </div>
       <div class="row m-auto   ">
-        <div class="col mb-2 l-bg-green-dark bg-primary rounded">
+        <div class="col pt-2 mb-2 l-bg-green-dark bg-primary rounded">
           <h6 class="text-dark">Ticket Resolves</h6>
           <div class="row " style={{ color: "white" }}>
             <div class="col">
@@ -44,7 +44,7 @@ const Wgt = () => {
         </div>
       </div>
       <div class="row m-auto   ">
-        <div class="col mb-2 l-bg-orange-dark bg-primary rounded">
+        <div class="col pt-2 mb-2 l-bg-orange-dark bg-primary rounded">
           <h6 class="text-dark">Revenue Today</h6>
           <div class="row " style={{ color: "white" }}>
             <div class="col">

@@ -1,4 +1,5 @@
 import React from "react";
+import Chart from "./Chart";
 import Wgt from "./Wgt";
 
 const Dashbord = () => {
@@ -8,7 +9,7 @@ const Dashbord = () => {
         <div class="row">
           <div class="col-2"><Wgt/>
           </div>
-          <div class="col-8">center</div>
+          <div class="col-8"><Chart/></div>
           <div class="col-2"><Wgt/></div>
         </div>
       </div>
